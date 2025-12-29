@@ -9,5 +9,5 @@ Nice meeting you — I'm Laxminarayan!
 🌱 Continuously learning, improving, and experimenting with new tech 
 🤝 Open to collaborating on interesting projects & open-source contributions  
 📫 Reach me on LinkedIn: @Laxminarayan  
-😄 Pronouns: He/Him  
+😄 Pronouns: He/His  
 ⚡ Fun fact: I love breaking things to understand how they work — then rebuilding them better
