@@ -11,3 +11,15 @@ Nice meeting you — I'm Laxminarayan!
 📫 Reach me on LinkedIn: @Laxminarayan  
 😄 Pronouns: He/His  
 ⚡ Fun fact: I love breaking things to understand how they work — then rebuilding them better
+
+
+<h2 align="center">🌐 Socials:</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/laxminarayan-alkatwar-26a1b01b3/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/lakshalkatwar17/">
+<img src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white"/>
+</a>
+</p>
