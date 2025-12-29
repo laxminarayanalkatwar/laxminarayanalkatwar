@@ -1,4 +1,6 @@
-## 💫 About Me
+## 💫 About Me:
+
+Hi there 👋
 
 Nice meeting you — I'm Laxminarayan!
 
