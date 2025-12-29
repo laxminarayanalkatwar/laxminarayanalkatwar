@@ -13,7 +13,7 @@ Nice meeting you — I'm Laxminarayan!
 ⚡ Fun fact: I love breaking things to understand how they work — then rebuilding them better
 
 
-<h2 align="center">🌐 Socials:</h2>
+# 🌐 Socials:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/laxminarayan-alkatwar-26a1b01b3/">
