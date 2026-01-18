@@ -19,7 +19,3 @@ Nice meeting you — I'm Laxminarayan!
 <a href="https://www.linkedin.com/in/laxminarayan-alkatwar-26a1b01b3/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="https://www.instagram.com/lakshalkatwar17/">
-<img src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white"/>
-</a>
